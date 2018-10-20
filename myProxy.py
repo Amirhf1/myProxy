@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import json
 import urllib.request
 from urllib.request import Request, urlopen
